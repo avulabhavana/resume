@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <style>
+        h1{
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Sameera Shaik</h1>
+    <p id="mail">sameerashaik1005@gmail.com</p> 
+    <p>+91 9876543210</p>
+    <p>linkedin.com/in/sameera-shaik-320305282</p>
+    <hr>
+    <h3>Summary</h3>
+    <p>Highly motivated and detail-oriented third-year B.Tech student<br>
+        specializing in Computer Science and Engineering. Seeking 
+        to <br>leverage programming skills and academic experience to<br> contrute
+        to innovative software projects. </p>
+    <hr>
+    <h3>Education</h3>
+    <p>B.Tech in Computer Science and Engineering</p>
+    <p>Vignan's Foundation for Science Technology and Research</p>
+    <p>Expected May 2027</p>
+    <hr>
+    <h3>Technical Skills</h3>
+    <p>Python,HTML,CSS,React,Javascript</p>
+    <hr>
+    <h3>Projects</h3>
+    <ul>
+        <li><b>Travel and Tourism</b>
+            <p>Developed a Tourism application that is user friendly
+                and easy to book flights, resorts and all.
+            </p>
+        </li>
+        <li><b>Smart Agriculture System</b>
+            <p>Developed a Smart Agriculture System that integrates 
+                Artificial Intelligence (AI) and Internet of Things (IoT)
+                 devices to revolutionize farming practices. </p> </li>
+    </ul>
+    <hr>
+    <h3>Certifications</h3>
+    <ul>
+        <li>Completed Programming in Java with 55%,NPTEL</li>
+        <li>Completed Principles of Management with an Elite grade, NPTEL</li>
+        <li>Completed AI & ML as a value added course</li>
+    </ul>
+</body>
+</html>
